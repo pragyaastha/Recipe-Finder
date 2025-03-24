@@ -17,6 +17,7 @@ A React-based web application that helps users discover recipes based on availab
 - Spoonacular API
 - CSS (or Tailwind CSS for styling)
 
+
 ## Setup Instructions
 
 1. **Clone the Repository**:
@@ -33,3 +34,9 @@ A React-based web application that helps users discover recipes based on availab
 ![Screenshot 2025-03-24 180449](https://github.com/user-attachments/assets/9fc3bf6a-cad2-4bb9-83e2-cb440fbe7a4e)
 
 ![Screenshot 2025-03-24 180539](https://github.com/user-attachments/assets/dbf926ec-da05-415e-9c64-54abe9d60734)
+
+
+## Demo
+
+```bash
+https://recipetastyfinder.netlify.app/
